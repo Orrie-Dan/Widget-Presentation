@@ -21,7 +21,6 @@ Select a target device (Chrome, Windows, or a connected phone/emulator) when pro
 
 ## Screenshot
 
-![ListBody Demo UI](screenshot.png)
+![ListBody Demo UI](image.png)
 
-> Save the provided UI screenshot as `screenshot.png` in the project root so it renders correctly above.
 
